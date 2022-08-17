@@ -15,4 +15,4 @@ In total 252 images were generated with 84 unique masks to cover the different h
 ![zdjęcie](https://github.com/AnnaWojcickaAGH/Skin-Hair-Dataset/blob/main/SkinHairDataset.jpg)
 
 Further description of the dataset is available in our peper XXXXLink
-[Link](url) 
+You can download Skin_hair dataset here [Link](url) 
