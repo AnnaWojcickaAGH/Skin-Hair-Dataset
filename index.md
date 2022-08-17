@@ -11,7 +11,7 @@ ground truth masks and reference images. Due to the artifact removal evaluation 
 images, images containing artificial hairs as well as ground-truth masks for evaluation purpose. This dataset is created by taking raw dermoscopic images without
 hair artifacts from the ISIC dataset that serve as a reference ground-truth image and for applying manually extracted hairs from other dermoscopic images from the ISIC dataset.
 In total 252 images were generated with 84 unique masks to cover the different hair types. The Skin Hair dataset contains: 35 images with small density (each in three colours - light, brown and dark), 27 images with medium density (each in three colours - light, brown and dark) and 22 images with high density (each in three colours - light, brown and dark).
-![zdjęcie](src)
+![zdjęcie]([src](https://github.com/AnnaWojcickaAGH/Skin-Hair-Dataset/blob/main/SkinHairDataset.jpg))
 
 
 
