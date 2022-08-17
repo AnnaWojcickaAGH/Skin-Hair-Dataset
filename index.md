@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Skin_Hair dataset: Setting the benchmark for effective hair inpainting methods for improving the image quality of
+dermoscopic images
 
 You can use the [editor on GitHub](https://github.com/AnnaWojcickaAGH/Skin-Hair-Dataset/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
