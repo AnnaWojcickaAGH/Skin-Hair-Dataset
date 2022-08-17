@@ -1,5 +1,5 @@
-# Skin_Hair datasetbbb
-Setting the benchmark for effective hair inpainting methods for improving the image quality of dermoscopic images
+# Skin_Hair dataset
+**Setting the benchmark for effective hair inpainting methods for improving the image quality of dermoscopic images**
 
 ## Introduction
 Dermoscopic images are often contaminated by artifacts including clinical pen markings, immersion fluid air bubbles, dark corners, and most importantly hair, which makes interpreting them more challenging for clinicians and computer-aided diagnostic algorithms. Hence, automated artifact recognition and inpainting systems have the potential to aid the clinical workflow as well as serve as an preprocessing step in the automated classification of dermoscopic images. The Skin Hair dataset contains
@@ -11,15 +11,8 @@ ground truth masks and reference images. Due to the artifact removal evaluation 
 images, images containing artificial hairs as well as ground-truth masks for evaluation purpose. This dataset is created by taking raw dermoscopic images without
 hair artifacts from the ISIC dataset that serve as a reference ground-truth image and for applying manually extracted hairs from other dermoscopic images from the ISIC dataset.
 In total 252 images were generated with 84 unique masks to cover the different hair types. The Skin Hair dataset contains: 35 images with small density (each in three colours - light, brown and dark), 27 images with medium density (each in three colours - light, brown and dark) and 22 images with high density (each in three colours - light, brown and dark).
+![zdjęcie](src)
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
